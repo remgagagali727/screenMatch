@@ -1,0 +1,26 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "DuracionEnMinutos": 60,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0
+  },
+  {
+    "Nombre": "Encanto",
+    "FechaDeLanzamiento": 2021,
+    "DuracionEnMinutos": 102,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0
+  },
+  {
+    "Nombre": "Coco",
+    "FechaDeLanzamiento": 2017,
+    "DuracionEnMinutos": 105,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0
+  }
+]
